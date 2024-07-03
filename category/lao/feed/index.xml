@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lao &#8211; Absorbing Asia</title>
+	<atom:link href="/category/lao/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Aug 2017 11:53:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/03/leaf_phuket_11391-80x80-e1488528124874.png</url>
+	<title>Lao &#8211; Absorbing Asia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Superstition in Vietnam</title>
+		<link>/superstition-in-vietnam/</link>
+					<comments>/superstition-in-vietnam/#respond</comments>
+		
+		<dc:creator><![CDATA[phil]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2017 11:52:45 +0000</pubDate>
+				<category><![CDATA[Lao]]></category>
+		<guid isPermaLink="false">/?p=325</guid>
+
+					<description><![CDATA[Collecting some examples here.]]></description>
+										<content:encoded><![CDATA[<p>Collecting some examples here.<br />
+
+<a href='/img_14727_2dollar/'><img width="750" height="978" src="/wp-content/uploads/2017/08/IMG_14727_2dollar-785x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2017/08/IMG_14727_2dollar-785x1024.jpg 785w, /wp-content/uploads/2017/08/IMG_14727_2dollar-230x300.jpg 230w, /wp-content/uploads/2017/08/IMG_14727_2dollar-768x1002.jpg 768w, /wp-content/uploads/2017/08/IMG_14727_2dollar-250x326.jpg 250w, /wp-content/uploads/2017/08/IMG_14727_2dollar-800x1044.jpg 800w, /wp-content/uploads/2017/08/IMG_14727_2dollar-192x250.jpg 192w, /wp-content/uploads/2017/08/IMG_14727_2dollar-613x800.jpg 613w, /wp-content/uploads/2017/08/IMG_14727_2dollar.jpg 1024w" sizes="(max-width: 750px) 100vw, 750px" /></a>
+</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/superstition-in-vietnam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
